@@ -1,0 +1,20 @@
+RETAIL BUSINESS INSIGHTS
+=============================================
+
+• Clothing generated the highest revenue ($104,264).
+• Fall recorded the highest seasonal revenue.
+• Free Shipping is the most preferred shipping method.
+• PayPal is the most used payment method.
+• Female customers have the highest average purchase amount.
+• Senior customers contribute the highest revenue.
+• Average purchase amount is $59.76.
+
+BUSINESS RECOMMENDATIONS
+=============================================
+
+• Increase inventory and marketing for the Clothing category.
+• Launch premium campaigns during Fall.
+• Improve delivery experience for Free Shipping shipping.
+• Offer cashback and rewards for PayPal users.
+• Create personalized campaigns for Female customers.
+• Focus loyalty programs on Senior customers.
